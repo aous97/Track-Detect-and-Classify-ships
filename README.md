@@ -5,6 +5,8 @@ Last Update: 21/08/2020
 
 **********How To**************
 
+This repo is buit upon yolov5: start by installing requirements in requirements.txt and visit the original yolov5 repoin case a yolov5 problem appears.
+
 - Launch classification and detection on a local video:
 	BASE RUN: run in terminal:
 		"python tracking_video.py --video "PATH_TO_VIDEO.mp4"
